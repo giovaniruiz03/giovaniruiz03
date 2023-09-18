@@ -1,0 +1,15 @@
+CREATE TABLE tb_alunos(
+    RA        INT(6),
+    nome      VARCHAR(30),
+    dt_nasc   DATE,
+    endereco  VARCHAR(50),        
+    email     VARCHAR(30)
+);
+
+INSERT INTO tb_alunos (RA, nome, dt_nasc, endereco, email) VALUES (123456, 'Lucas Oliveira', '2004-10-09', 'Rua dos Palmitos', 'lucasoliveira@gmail.com');
+INSERT INTO tb_alunos (RA, nome, dt_nasc, endereco, email) VALUES (123546, 'Mateus Mendes', '2004-10-09', 'Rua das Maçãs','mateusmendes@gmail.com');
+INSERT INTO tb_alunos (RA, nome, dt_nasc, endereco, email) VALUES (625123, 'Tiago Ventura', '2004-10-09', 'Rua dos Morangos', 'tiagoventura@gmail.com');
+INSERT INTO tb_alunos (RA, nome, dt_nasc, endereco, email) VALUES (342124, 'Caio Silva', '2004-10-09', 'Rua dos Abacates', 'caiosilva@gmail.com');
+INSERT INTO tb_alunos (RA, nome, dt_nasc, endereco, email) VALUES (234123, 'André Teixeira', '2004-10-09', 'Rua dos Abacaxis', 'andreteixeira@gmail.com');
+
+SELECT * FROM tb_alunos;
