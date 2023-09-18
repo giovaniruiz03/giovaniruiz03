@@ -1,0 +1,22 @@
+CREATE TABLE tb_desenvolvedores (
+    ID_desenvolvedor INT,
+    nome VARCHAR(30),
+    CPF VARCHAR(12),
+    dt_nasc DATE,
+);
+
+CREATE TABLE tb_projetos (
+    ID_projeto INT,
+    nome VARCHAR(30) NOT NULL,
+    dt_lanc DATE,
+    genero VARCHAR(20),
+    faixa_etaria INT,
+);
+
+INSERT INTO tb_desenvolvedores (ID_desenvolvedor, nome, CPF, dt_nasc) VALUES (1, 'Lucas Oliveira', '12345678901', '2000-10-04');
+
+INSERT INTO tb_projetos (ID_projeto, nome, dt_lanc, genero, faixa_etaria) VALUES (1, 'Ana Paula', '2023-11-01', 'Ação', '16');
+
+SELECT * FROM tb_desenvolvedores;
+
+SELECT * FROM tb_projetos;
