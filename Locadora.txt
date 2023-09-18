@@ -1,0 +1,21 @@
+CREATE TABLE tb_automovel
+(
+placa VARCHAR(7),
+modelo VARCHAR(20),
+ano INT, 
+);
+
+CREATE TABLE tb_montadora
+(
+nome VARCHAR(30),
+site VARCHAR(40),
+logotipo VARCHAR(10),
+);
+
+INSERT INTO tb_automovel (placa, modelo, ano) VALUES ('ABC-1D23', 'CIVIC', 2014);
+
+INSERT INTO tb_montadora (nome, site, logotipo) VALUES ('HONDA', 'WWW.HONDA.com.br', 'HONDA');
+
+SELECT * FROM tb_automovel;
+
+SELECT * FROM tb_montadora;
