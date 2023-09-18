@@ -1,0 +1,13 @@
+CREATE TABLE tb_produtos (
+  nome VARCHAR(50),
+  preco DECIMAL(6, 2),
+  qnt_estoq INT,
+  marca VARCHAR(20),
+  SAC VARCHAR(11),
+  nacionalidade VARCHAR(20)
+  );
+
+INSERT INTO tb_produtos (nome, preco, qnt_estoq, marca, SAC, nacionalidade) VALUES ('Bolacha Oreo', 10, 300, 'Oreo', '15123456789', 'Americana');
+
+SELECT * from tb_produtos;
+  
