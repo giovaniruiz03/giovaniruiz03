@@ -8,7 +8,7 @@ Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espéc
 Desenvolvi um floxograma embasado no exercício, identificando e organizando seus atributos para a montagem do banco de dados a seguir.
 
 ## Nome do arquivo
-pet.txt
+Pet.txt
 
 ![Pet](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/58ad5a9d-3052-462f-9bf5-f3237adf9452)
 
@@ -22,7 +22,7 @@ Cada projeto tem um nome, data de lançamento, gênero e faixa etária. Segundo 
 Desenvolvi um floxograma embasado no exercício, identificando e organizando seus atributos para a montagem do banco de dados a seguir.
 
 ## Nome do arquivo
-produtora.txt
+Produtora.txt
 
 ![Desenvolvedor](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/9ea8114b-cdfd-4e73-9d27-22af4f5949cd)
 
@@ -36,7 +36,7 @@ Uma biblioteca efetua registro de autores e livros. Um autor é cadastrado com s
 Desenvolvi um floxograma embasado no exercício, identificando e organizando seus atributos para a montagem do banco de dados a seguir.
 
 ## Nome do arquivo
-biblioteca.txt
+Biblioteca.txt
 
 ![Livro](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/169edc49-ae43-42b9-bf3d-8c70431b1a20)
 
@@ -49,7 +49,7 @@ Uma locadora de automóveis, mantém registro dos automóveis. Um automóvel é 
 Desenvolvi um floxograma embasado no exercício, identificando e organizando seus atributos para a montagem do banco de dados a seguir.
 
 ## Nome do arquivo
-locadoradecarros.txt
+Locadora.txt
 
 ![Locadora](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/2f522222-7771-4bbe-ab85-84fb96586178)
 
@@ -62,7 +62,7 @@ Um supermercado cadastra seus produtos. Um produto é identificado por seu nome,
 Desenvolvi um floxograma embasado no exercício, identificando e organizando seus atributos para a montagem do banco de dados a seguir.
 
 ## Nome do arquivo
-produto.txt
+Supermercado.txt
 
 ![Supermercado](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/e1f490ca-b654-4d7c-8ac0-914fe833c75a)
 
@@ -75,7 +75,7 @@ Uma videoteca precisa cadastrar o título, duração, idioma original e preço d
 Desenvolvi um floxograma embasado no exercício, identificando e organizando seus atributos para a montagem do banco de dados a seguir.
 
 ## Nome do arquivo
-videoteca.txt
+Videoteca.txt
 
 ![Videoterca](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/86e10f4c-135b-4d57-a80c-7feca1718434)
 
@@ -89,7 +89,7 @@ videoteca.txt
 Desenvolvi um floxograma embasado no exercício, identificando e organizando seus atributos para a montagem do banco de dados a seguir.
 
 ## Nome do arquivo
-aluno.txt
+Alunos.txt
 
 ![Aluno](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/686b551b-b5ad-475b-a36d-7d8205ddd98f)
 
@@ -102,7 +102,7 @@ aluno.txt
 Desenvolvi um floxograma embasado no exercício, identificando e organizando seus atributos para a montagem do banco de dados a seguir.
 
 ## Nome do arquivo
-colaboradores.txt
+Colaboradores.txt
 
 ![Colaborador](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/6eecbf49-0edb-4c77-815a-e52244371d50)
 
