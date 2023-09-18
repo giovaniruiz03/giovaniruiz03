@@ -1,0 +1,32 @@
+CREATE TABLE tb_diretores (
+    ID INT,
+    nome VARCHAR(40),
+    dt_nasc DATE,
+    nacionalidade VARCHAR(20),
+);
+
+
+CREATE TABLE tb_filmes (
+    ID INT,
+    titulo VARCHAR(40),
+    duracao VARCHAR(20), 
+    idioma_original VARCHAR(20),
+    preco DECIMAL(8, 2),
+);
+
+CREATE TABLE tb_elenco (
+    ID INT,
+    nome VARCHAR(40),
+    dt_nasc DATE,
+    nacionalidade VARCHAR(20),
+    filme VARCHAR(40),
+);
+
+
+INSERT INTO tb_diretores (ID, nome, dt_nasc, nacionalidade) VALUES (1, 'Carlos Souza', '1980-10-06', 'Australiano');
+
+INSERT INTO tb_filmes (ID, titulo, duracao, idioma_original, preco) VALUES (1, 'Zatura', '2 Horas', 'Inglês', 80);
+
+INSERT INTO tb_elenco (ID, nome, dt_nasc, nacionalidade, filme) VALUES (1, 'Claudia Raia', '1975-04-23', 'Brasileira', 'Zatura');
+
+
