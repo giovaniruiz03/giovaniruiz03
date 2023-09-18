@@ -24,7 +24,7 @@ Desenvolvi um floxograma embasado no exercício, identificando e organizando seu
 ## Nome do arquivo
 produtora.txt
 
-![produtoraprint](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/ce5c44b8-fb48-4e80-8dae-ca3b0f8bee48)
+![Desenvolvedor](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/9ea8114b-cdfd-4e73-9d27-22af4f5949cd)
 
 
 # EXERCICIO 3
@@ -38,7 +38,7 @@ Desenvolvi um floxograma embasado no exercício, identificando e organizando seu
 ## Nome do arquivo
 biblioteca.txt
 
-![biblioteca](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/192300dd-f244-4cca-87af-a2c6571b88f3)
+![Livro](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/169edc49-ae43-42b9-bf3d-8c70431b1a20)
 
 # EXERCICIO 4
 ## Descrição Do Exercicio da Locadora
@@ -51,7 +51,7 @@ Desenvolvi um floxograma embasado no exercício, identificando e organizando seu
 ## Nome do arquivo
 locadoradecarros.txt
 
-![montadoraprint](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/cb243345-48e1-4996-9ffe-bece54f98f7b)
+![Locadora](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/2f522222-7771-4bbe-ab85-84fb96586178)
 
 # EXERCICIO 5
 ## Descrição Do Exercicio da Supermercado
@@ -64,7 +64,7 @@ Desenvolvi um floxograma embasado no exercício, identificando e organizando seu
 ## Nome do arquivo
 produto.txt
 
-![supermercado](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/1aa2dbf8-d393-43e7-a446-65e341953844)
+![Supermercado](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/e1f490ca-b654-4d7c-8ac0-914fe833c75a)
 
 # EXERCICIO 6
 ## Descrição Do Exercicio da Videoteca
@@ -77,7 +77,7 @@ Desenvolvi um floxograma embasado no exercício, identificando e organizando seu
 ## Nome do arquivo
 videoteca.txt
 
-![videoteca](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/25651457-7538-4dd5-8787-9ce4cebd6067)
+![Videoterca](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/86e10f4c-135b-4d57-a80c-7feca1718434)
 
 
 # EXERCICIO 7
@@ -91,7 +91,7 @@ Desenvolvi um floxograma embasado no exercício, identificando e organizando seu
 ## Nome do arquivo
 aluno.txt
 
-![aluno](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/478be52b-787c-424a-ae9d-4e2a1bd49846)
+![Aluno](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/686b551b-b5ad-475b-a36d-7d8205ddd98f)
 
 # EXERCICIO 8
 ## Descrição Do Exercicio da Colaborador
@@ -104,7 +104,7 @@ Desenvolvi um floxograma embasado no exercício, identificando e organizando seu
 ## Nome do arquivo
 colaboradores.txt
 
-![colaborador](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/bc70836c-f228-4491-916a-c0ca69254f31)
+![Colaborador](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/6eecbf49-0edb-4c77-815a-e52244371d50)
 
 
 ## Aluno: Giovani Boccardo Ruiz - RA: 223102 - giruiz2003@gmail.com 
