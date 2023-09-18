@@ -1,0 +1,20 @@
+CREATE TABLE tb_clientes (
+    ID INT,
+    nome VARCHAR(40),
+    CPF VARCHAR(11),
+    email VARCHAR(50),
+    telefone VARCHAR(15),
+);
+
+CREATE TABLE tb_pets (
+    ID INT,
+    nome VARCHAR(40),
+    especie VARCHAR(20),
+    dt_nasc DATE,
+    dono VARCHAR(40),
+    FOREIGN KEY (dono) REFERENCES tb_clientes(ID),
+);
+
+INSERT INTO tb_clientes (ID, nome, CPF, email, telefone) VALUES (1, 'Giovani', '12345678901', 'giovani@gmail.com', '15123456789');
+
+INSERT INTO tb_pets (ID, nome, especie, dt_nasc, dono) VALUES (1, 'Rex', 'Cachorro', '2010-03-10', 'Giovani');
