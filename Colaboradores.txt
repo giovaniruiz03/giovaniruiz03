@@ -1,0 +1,15 @@
+CREATE TABLE tb_colaboradores(
+    ID       INT,
+    nome     VARCHAR(30),
+    CPF      VARCHAR(11),
+    cargo    VARCHAR(20),
+    salario  FLOAT,
+);
+
+INSERT INTO tb_colaboradores (ID, nome, CPF, cargo, salario) VALUES (1, 'Lucas Oliveira', '12345678901', 'Segurança', '3000');
+INSERT INTO tb_colaboradores (ID, nome, CPF, cargo, salario) VALUES (2, 'Mateus Mendes', '12627384124', 'Coordenador','6000');
+INSERT INTO tb_colaboradores (ID, nome, CPF, cargo, salario) VALUES (3, 'Tiago Ventura', '43237124321', 'Auxiliar de Produlção', '4000');
+INSERT INTO tb_colaboradores (ID, nome, CPF, cargo, salario) VALUES (4, 'Caio Silva', '72839123456', 'RH', '5000');
+INSERT INTO tb_colaboradores (ID, nome, CPF, cargo, salario) VALUES (5, 'André Teixeira', '98156782543', 'Gerente', '9000');
+
+SELECT * FROM tb_colaboradores;
