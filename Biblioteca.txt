@@ -1,0 +1,25 @@
+CREATE TABLE tb_autores
+(
+nome VARCHAR(30),
+data_nasc DATE,
+nacionalidade VARCHAR(20),
+email VARCHAR(40)
+);
+
+CREATE TABLE tb_livros
+(
+titulo VARCHAR(20),
+qnt_pag INT,
+acabamento VARCHAR(15),
+editora VARCHAR(20)
+);
+
+INSERT INTO tb_autores (nome, data_nasc, nacionalidade, email)
+VALUES ('Giovani', '2003-07-11', 'Brasileiro', 'giovani@gmail.com');
+
+INSERT INTO tb_livros (titulo, qnt_pag, acabamento, editora)
+VALUES ('Rapto do garoto de ouro', 330, 'Capa Comum', 'Editora Real');
+
+SELECT * FROM tb_autores;
+
+SELECT * FROM Livros;
