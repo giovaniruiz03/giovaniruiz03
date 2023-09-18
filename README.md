@@ -10,7 +10,7 @@ Desenvolvi um floxograma embasado no exercício, identificando e organizando seu
 ## Nome do arquivo
 pet.txt
 
-![petprint](https://github.com/MatheusLaiaa/MatheusLaiaa/assets/144149403/d9671895-3a77-4418-876d-6f6e99def184)
+![Pet](https://github.com/giovaniruiz03/giovaniruiz03/assets/145368122/58ad5a9d-3052-462f-9bf5-f3237adf9452)
 
 # EXERCICIO 2
 ## Descrição Do Exercicio da Produtora
